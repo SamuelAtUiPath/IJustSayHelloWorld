@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/universe/earth/testmanager_/",
+  "defaultProject": {
+    "id": "5cad7bd8-2671-0000-62c1-0b46f6a11e84",
+    "name": "IJustConnectWithHelloWorld",
+    "key": "HELLO"
+  }
 }
